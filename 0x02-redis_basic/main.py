@@ -2,7 +2,7 @@
 """
 Main file
 """
-Cache = __import__('exercise').Cache
+Cache = __import__("exercise").Cache
 
 cache = Cache()
 
